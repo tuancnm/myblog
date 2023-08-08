@@ -1,0 +1,17 @@
+git config -g user.name tuancnm
+git config -g user.email tuancnm@gmail.com
+git config user.name
+git status
+git add . /{ten file}
+git commit -m 'ghi chu'
+git push 
+git log / git log --oneline
+git checkout {branch name}
+git branch
+:q
+git checkout -p {branch name}
+=> repostory (folder project tren git), branch (canh)
+git merge 
+git branch -d {branch name}
+git push (local ->github)
+git pull (github ->local)
